@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Lloyd 👋
+I'm a Full-stack Software Engineer working with TypeScript, React, Redux, Node.js, Next.js, SQL, and MongoDB. With a blend of software engineering expertise and a strong analytical background from 8 years leading and delivering complex Structural Engineering projects.
 
 <!--
 **lwooly/lwooly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
